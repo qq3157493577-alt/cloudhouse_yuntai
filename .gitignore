@@ -6,3 +6,7 @@
 *.uvguix
 *.uvguix.*
 *.uvoptx
+
+# CMake build outputs and local presets
+/build/
+/CMakeUserPresets.json
